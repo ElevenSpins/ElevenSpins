@@ -7,7 +7,6 @@
 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/marian.11Spins/)
 [![dev@mutschler-m.de](https://img.shields.io/static/v1?label=dev@mutschler-m.de&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:dev@mutschler-m.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/mutschler-m/)]
   
 👨‍ 22 years old german guy      
 👨‍💻 Software Developer   

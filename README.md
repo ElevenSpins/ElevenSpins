@@ -8,9 +8,10 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/marian.11Spins/)
 [![dev@lucafluri.ch](https://img.shields.io/static/v1?label=dev@mutschler-m.de&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:dev@mutschler-m.de)
   
-
+👨‍ 22 years old german guy 
 👨‍💻 Software Developer   
 👨‍🎓 Studying Cyber Security (CS @ DHBW)  
+💻 owner of a own IT Company
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">-->
 

@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/marian.11Spins/)
 [![dev@lucafluri.ch](https://img.shields.io/static/v1?label=dev@mutschler-m.de&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:dev@mutschler-m.de)
   
-👨‍ 22 years old german guy 
+👨‍ 22 years old german guy      
 👨‍💻 Software Developer   
 👨‍🎓 Studying Cyber Security (CS @ DHBW)  
 💻 owner of a own IT Company

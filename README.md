@@ -29,3 +29,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![LateX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex&logoColor=white)
+
+<br>
+
+
+[![Follower](https://shields.io/github/followers/ElevenSpins?style=social&logo=github)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FElevenSpins%2F)

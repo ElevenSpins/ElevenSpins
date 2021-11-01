@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![LateX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex&logoColor=white)
-![Vue JS](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&logoColor=white)
+![Vue JS](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 
 <br>
 

@@ -13,8 +13,8 @@
   
 👨‍ 22 years old german guy      
 👨‍💻 Software Developer   
-👨‍🎓 Studying Cyber Security (CS @ DHBW)
-🚩 Playing CTF's
+👨‍🎓 Studying Cyber Security (CS @ DHBW)   
+🚩 Playing CTF's      
 💻 MacOSX lover in every case
 
 
